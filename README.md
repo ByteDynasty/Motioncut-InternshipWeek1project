@@ -1,1 +1,1 @@
-# Motioncut-InternshipWeek1project
+# Motioncut_Internship Week1_project
